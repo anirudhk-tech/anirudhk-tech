@@ -2,8 +2,8 @@
 
 <h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=200 height=200/>
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width=200 height=200/>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=200 height=200/> <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width=200 height=200/>
+
 <h1></h1>
 
 <h3 align="center">What I'm About</h3>
