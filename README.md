@@ -6,16 +6,16 @@
 
 <h1></h1>
 
-- 🔭 I’m currently working on **ElectroBook**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> I’m currently working on **ElectroBook**
 
-- 🌱 I’m currently learning **react native**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Baby%20Medium-Dark%20Skin%20Tone.png" alt="Baby Medium-Dark Skin Tone" width="30" height="30" /> I’m currently learning **react native**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bowing%20Medium-Dark%20Skin%20Tone.png" alt="Man Bowing Medium-Dark Skin Tone" width="25" height="25" /> I’m looking for help with **internships and oppurtunities**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="30" height="30" />I’m looking for help with **internships and oppurtunities**
 
-- 📫 How to reach me **vkupp@uic.edu**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="30" height="30" /> How to reach me **vkupp@uic.edu**
 
 <h1></h1>
-<h3 align="center">Let's talk</h3>
+<p align="center"><h3 align="center">Let's talk</h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Call Me Hand Medium-Dark Skin Tone" width="35" height="35" /></p>
 <p align="center"><a href="https://linkedin.com/in/anirudh-kuppili-4b77762a1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="anirudh-kuppili-4b77762a1" height="60" width="60" /></a><a href="https://discordapp.com/users/ani_bytes" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="anirudh-kuppili-4b77762a1" height="60" width="60" /></a><a href="https://www.instagram.com/venkata.ani/?hl=en" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="anirudh-kuppili-4b77762a1" height="60" width="60" /></a><a href="https://api.whatsapp.com/send/?phone=5633965540&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="anirudh-kuppili-4b77762a1" height="60" width="60" /></a></p>
 
 <h1></h1>
