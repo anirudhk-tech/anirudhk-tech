@@ -2,10 +2,6 @@
 
 <h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Stats GIF" width="900" height="300" />
-</p>
-
 <h1></h1>
 
 <h3 align="center">What I'm About</h3>
