@@ -14,8 +14,8 @@
 <h1></h1>
 
 <h3 align="center">What I'm About</h3>
-<div flex-direction="row">
-<div display="inline-block">
+<p float="left">
+  <div display="inline-block">
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> I’m currently working on **ElectroBook**
   
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Baby%20Medium-Dark%20Skin%20Tone.png" alt="Baby Medium-Dark Skin Tone" width="30" height="30" /> I’m currently learning **react native**
@@ -27,7 +27,7 @@
 <div display="inline-block">
       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="anirudhk-tech" width=50 height=50/>
 </div>
-</div>
+</p>
 <h1></h1>
 
 <h3 align="center">Let's talk</h3>
