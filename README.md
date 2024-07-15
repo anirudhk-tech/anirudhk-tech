@@ -1,6 +1,6 @@
 ![](./mainHeader.png)
 
-<h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> <h3 align="center">A proactive oppurtunist attending college in The Windy City</h3> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Man Detective Medium Skin Tone" width="30" height="30" />
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
