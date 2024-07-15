@@ -1,6 +1,6 @@
 ![](./mainHeader.png)
 
-<h3 align="center">A proactive oppurtunist residing in The Windy City</h3>
+<h3 align="center" color="#7E0B0B">A proactive oppurtunist residing in The Windy City</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" background-color='black'><img src="https://github-profile-trophy.vercel.app/?username=anirudhk-tech" alt="anirudhk-tech" /></a> </p>
 
