@@ -52,9 +52,24 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="30" height="30" /> Writing up intricate worlds with riveting characters and plot.
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Reading self-help books of all sorts.
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Medium%20Skin%20Tone.png" alt="Man Running Medium Skin Tone" width="30" height="30"/> Jumproping, lifting, running, and swimming.
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="30" height="30" /> Watching elegant fish swim in aquariums.
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" alt="Family Man, Woman, Girl, Boy" width="30" height="30" /> Spending time with those that are there for me.
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="30" height="30" /> A cold shower and drinking a hot cup of black coffee every morning.
 </p>
