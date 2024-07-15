@@ -1,4 +1,4 @@
 ![](./mainHeader.png)
 
-[!IMPORTANT]
-Thanks for checking out my profile.
+> [!IMPORTANT]
+> Thanks for checking out my profile.
