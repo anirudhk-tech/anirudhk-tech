@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhk-tech" alt="anirudhk-tech" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" backgroundColor='black'><img src="https://github-profile-trophy.vercel.app/?username=anirudhk-tech" alt="anirudhk-tech" /></a> </p>
 
 - 🔭 I’m currently working on **ElectroBook**
 
