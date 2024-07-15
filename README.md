@@ -3,7 +3,7 @@
 <h3 align="center">A proactive oppurtunist attending college in Chicago, the Windy City</h3>
 
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=190 height=190/> <img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width=190 height=190/> <img align="center" src="./header3IMAGE.gif" width=190 height=190/> <img align="center" src="./header4IMAGE" width=190 height=190/><img align="center" src="./header5IMAGE.gif" width=200 height=200/> 
+<img align="center" src="header1IMAGE.gif" width=190 height=190/> <img align="center" src="./header2IMAGE.gif" width=190 height=190/> <img align="center" src="./header3IMAGE.gif" width=190 height=190/> <img align="center" src="./header4IMAGE.gif" width=190 height=190/><img align="center" src="./header5IMAGE.gif" width=200 height=200/> 
 </p>
 
 <h1></h1>
