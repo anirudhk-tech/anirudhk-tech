@@ -1,6 +1,7 @@
 ![](./mainHeader.png)
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> <h3 align="center">A proactive oppurtunist attending college in The Windy City</h3> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Man Detective Medium Skin Tone" width="30" height="30" />
+<h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
+<p align="center"><img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwNDkxODAsIm5iZiI6MTcyMTA0ODg4MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE1VDEzMDgwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhYzg1ZmQ4MDdjMzM1MDUyMzRmM2ExMDY2NTA2ZjFlYTBhZDIxZGFiZDkyODE0NzY3Mjk4YWIzNzJmZGY4MGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JI1madbdJFqmB9N0dM1ORvX3WDdaamy67JCgzQs4V68" alt="Man Detective Medium Skin Tone" width="50" height="50" /></p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
