@@ -1,1 +1,1 @@
-![](./AnirudhKuppiliREADME.png)
+![](./Minimalist.png)
