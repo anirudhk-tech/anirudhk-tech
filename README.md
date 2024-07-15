@@ -1,1 +1,1 @@
-![short text](./Anirudh Kuppili)
+![short text](./AnirudhKuppili)
