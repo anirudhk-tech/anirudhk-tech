@@ -40,12 +40,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="50" height="40"/> </a>
 </p>
 
-<h1></h1>
-
 <p align="center">
   <img align="center" src="https://camo.githubusercontent.com/cb1831bff0e6002e0eb90cc4b4865f0cddfd288b3e47752786c0d060ae986d00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e69727564686b2d746563682673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="anirudhk-tech"/>
 </p>
 
+<h1></h1>
 
 <h3 align="center">Not just a developer</h3>
 
