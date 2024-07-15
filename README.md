@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 🤝 I’m looking for help with **internships and oppurtunities**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bowing%20Medium-Dark%20Skin%20Tone.png" alt="Man Bowing Medium-Dark Skin Tone" width="25" height="25" /> I’m looking for help with **internships and oppurtunities**
 
 - 📫 How to reach me **vkupp@uic.edu**
 
