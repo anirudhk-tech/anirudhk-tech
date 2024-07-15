@@ -46,8 +46,12 @@
   <img align="center" src="https://camo.githubusercontent.com/cb1831bff0e6002e0eb90cc4b4865f0cddfd288b3e47752786c0d060ae986d00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e69727564686b2d746563682673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="anirudhk-tech"/>
 </p>
 
-<h3 align="center">My life outside of CS?</h3>
-<p>
-  <img align="center"/>
-</p>
 
+<h3 align="center">Not just a developer</h3>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="30" height="30" /> Writing up intricate worlds with riveting characters and plot.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Reading self-help books of all sorts.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Medium%20Skin%20Tone.png" alt="Man Running Medium Skin Tone" width="30" height="30"/> Jumproping, lifting, running, and swimming.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="30" height="30" /> Watching elegant fish swim in aquariums.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" alt="Family Man, Woman, Girl, Boy" width="30" height="30" /> Spending time with those that are there for me.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="30" height="30" /> Drinking a good cup of black coffee every morning.
