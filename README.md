@@ -2,13 +2,14 @@
 
 <h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Stats GIF" width="1000" height="300" />
-</p>
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=anirudhk-tech" alt="anirudhk-tech" />
   </a>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Stats GIF" width="800" height="300" />
 </p>
 
 <h1></h1>
