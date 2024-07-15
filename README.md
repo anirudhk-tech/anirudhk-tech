@@ -6,7 +6,7 @@
 
 <h1></h1>
 
-<p align="center"><img align="center" src="./godotocat.png" alt="Man Detective Medium Skin Tone" width="700" height="400"/></p>
+<p align="center"><img align="center" src="./godotocat.png" alt="Man Detective Medium Skin Tone" width="600" height="400"/></p>
 
 <h3 align="center">What I'm About</h3>
 
