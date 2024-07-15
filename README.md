@@ -1,1 +1,1 @@
-![short text](./AnirudhKuppili)
+![](./AnirudhKuppili)
