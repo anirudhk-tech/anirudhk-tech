@@ -1,6 +1,6 @@
 ![](./mainHeader.png)
 
-<h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
+<h3 align="center">A proactive oppurtunist attending college in The Windy City - Chicago</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=190 height=190/> <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width=190 height=190/> <img src="./relax4.gif" width=190 height=190/> <img src="./relax3.gif" width=190 height=190/><img src="./relax2.gif" width=200 height=200/> 
 
