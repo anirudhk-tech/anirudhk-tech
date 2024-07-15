@@ -1,1 +1,1 @@
-![](./AnirudhKuppiliREADME.png)
+![](./ANIRUDHKUPPILIREADME.png)
