@@ -2,6 +2,7 @@
 
 <h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=100 height=100/>
 <h1></h1>
 
 <h3 align="center">What I'm About</h3>
@@ -40,8 +41,12 @@
 
 <h1></h1>
 
-<h3>My life outside of CS?</h3>
-
 <p align="center">
   <img align="center" src="https://camo.githubusercontent.com/cb1831bff0e6002e0eb90cc4b4865f0cddfd288b3e47752786c0d060ae986d00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e69727564686b2d746563682673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="anirudhk-tech"/>
 </p>
+
+<h3 align="center">My life outside of CS?</h3>
+<p>
+  <img align="center"/>
+</p>
+
