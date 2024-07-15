@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> I’m currently working on **ElectroBook**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Baby%20Medium-Dark%20Skin%20Tone.png" alt="Baby Medium-Dark Skin Tone" width="30" height="30" /> I’m currently learning **react native** <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" alt="Airplane Departure" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Baby%20Medium-Dark%20Skin%20Tone.png" alt="Baby Medium-Dark Skin Tone" width="30" height="30" /> I’m currently learning **react native** <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" alt="Working" width="500" height="500" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="30" height="30" /> I’m looking for help with **internships and oppurtunities**
 
