@@ -21,6 +21,7 @@
 <h3 align="center">Let's talk</h3>
 <p align="center">
 <a href="https://linkedin.com/in/anirudh-kuppili-4b77762a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-kuppili-4b77762a1" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/ani_bytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord-alt.svg" alt="anirudh-kuppili-4b77762a1" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
