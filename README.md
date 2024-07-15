@@ -14,7 +14,7 @@
 <h1></h1>
 
 <h3 align="center">What I'm About</h3>
-<div>
+<div display="inline-block">
 <div display="inline-block">
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> I’m currently working on **ElectroBook**
   
