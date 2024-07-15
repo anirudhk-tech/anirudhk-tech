@@ -1,8 +1,10 @@
 ![](./mainHeader.png)
 
-<h3 align="center">A proactive oppurtunist residing in The Windy City</h3>
+<h3 align="center">A proactive oppurtunist attending college in The Windy City</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" background-color='black'><img src="https://github-profile-trophy.vercel.app/?username=anirudhk-tech" alt="anirudhk-tech" /></a> </p>
+
+<h3 align="center">What I'm doing with my time</h3>
 
 - 🔭 I’m currently working on **ElectroBook**
 
@@ -16,7 +18,7 @@
 
 - 📫 How to reach me **vkupp@uic.edu**
 
-<h3 align="center">Other socials:</h3>
+<h3 align="center">Let's talk</h3>
 <p align="center">
 <a href="https://linkedin.com/in/anirudh-kuppili-4b77762a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-kuppili-4b77762a1" height="30" width="40" /></a>
 </p>
