@@ -50,6 +50,7 @@
 <h3 align="center">Not just a developer</h3>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="30" height="30" /> Writing up intricate worlds with riveting characters and plot.
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Reading self-help books of all sorts.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Medium%20Skin%20Tone.png" alt="Man Running Medium Skin Tone" width="30" height="30"/> Jumproping, lifting, running, and swimming.
