@@ -1,6 +1,6 @@
 ![](./mainHeader.png)
 
-<h3 align="center">A proactive oppurtunist attending college in The Windy City - Chicago</h3>
+<h3 align="center">A proactive oppurtunist attending college in Chicago, the Windy City</h3>
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=190 height=190/> <img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width=190 height=190/> <img align="center" src="./relax4.gif" width=190 height=190/> <img align="center" src="./relax3.gif" width=190 height=190/><img align="center" src="./relax2.gif" width=200 height=200/> 
@@ -60,4 +60,4 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" alt="Family Man, Woman, Girl, Boy" width="30" height="30" /> Spending time with those that are there for me.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="30" height="30" /> Drinking a good cup of black coffee every morning.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Cup%20With%20Straw.webp" alt="Cup With Straw" width="30" height="30" /> A cold shower and drinking a hot cup of black coffee every morning.
