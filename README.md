@@ -29,9 +29,8 @@
   <a href="https://api.whatsapp.com/send/?phone=5633965540&text&type=phone_number&app_absent=0" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="anirudh-kuppili-4b77762a1" height="60" width="60" /></a>
 </p>
 
-<h1></h1>
-
-**Languages** <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"align="right"/>
+<h1></h1> 
+Languages: <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"align="right"/>
 
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/> </a> 
