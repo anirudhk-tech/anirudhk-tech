@@ -101,8 +101,8 @@
 <img 
   src="./getx_icon.png" 
   alt="getx" 
-  width="50" 
-  height="60"
+  width="70" 
+  height="50"
 />
 
 <p align="center">
