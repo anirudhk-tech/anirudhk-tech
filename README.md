@@ -50,13 +50,29 @@
   width="40" 
   height="40"
 /> 
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+  alt="typescript" 
+  width="40" 
+  height="40"
+/> 
 
-**Libraries**
+**LIBRARIES:**
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" 
+  alt="reactnative" 
+  width="40" 
+  height="40"
+/> 
+<img 
+  src="./flutter_icon.png" 
+  alt="flutter" 
+  width="40" 
+  height="40"
+/>
 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="50" height="40"/> </a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="./flutter_icon.png" alt="flutter" width="40" height="40"/> </a> 
 
 <p align="center">
   <img align="center" src="https://camo.githubusercontent.com/cb1831bff0e6002e0eb90cc4b4865f0cddfd288b3e47752786c0d060ae986d00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e69727564686b2d746563682673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="anirudhk-tech"/>
