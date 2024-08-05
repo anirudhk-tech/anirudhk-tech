@@ -95,14 +95,14 @@
 <img 
   src="./zustand_icon.png" 
   alt="zustand" 
-  width="50" 
+  width="60" 
   height="40"
 />
 <img 
   src="./getx_icon.png" 
   alt="getx" 
   width="50" 
-  height="40"
+  height="60"
 />
 
 <p align="center">
