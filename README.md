@@ -71,7 +71,16 @@
   height="40"
 />
 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+**DATABASES**: 
+<img 
+  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" 
+  alt="sqlite" 
+  width="40" 
+  height="40"
+/> 
+
+
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="50" height="40"/> </a>
 
 <p align="center">
