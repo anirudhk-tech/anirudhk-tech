@@ -79,7 +79,7 @@
   height="40"
 /> 
 <img 
-  src="./supabase_icon" 
+  src="./supabase_icon.png" 
   alt="supabase" 
   width="40" 
   height="40"
@@ -93,13 +93,13 @@
   height="40"
 />
 <img 
-  src="./zustand_icon" 
+  src="./zustand_icon.png" 
   alt="zustand" 
   width="50" 
   height="40"
 />
 <img 
-  src="./getx_icon" 
+  src="./getx_icon.png" 
   alt="getx" 
   width="50" 
   height="40"
