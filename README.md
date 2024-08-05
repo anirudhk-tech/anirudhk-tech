@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> I’m currently working on **ElectroBook** <img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Baby%20Medium-Dark%20Skin%20Tone.png" alt="Baby Medium-Dark Skin Tone" width="30" height="30" /> I’m currently learning **react native**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Baby%20Medium-Dark%20Skin%20Tone.png" alt="Baby Medium-Dark Skin Tone" width="30" height="30" /> I’m currently learning **flutter and dart**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="30" height="30" /> I’m looking for help with **internships and oppurtunities**
 
@@ -33,8 +33,6 @@
 <h1></h1>
 
 <h3 align="center">Languages and Tools</h3>
-
-<p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="reactnative" width="40" height="40"/> </a> 
@@ -42,7 +40,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="50" height="40"/> </a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="./flutter_icon.png" alt="flutter" width="40" height="40"/> </a> 
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="./dart_icon.png" alt="dart" width="40" height="40"/> </a> 
-</p>
 
 <p align="center">
   <img align="center" src="https://camo.githubusercontent.com/cb1831bff0e6002e0eb90cc4b4865f0cddfd288b3e47752786c0d060ae986d00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e69727564686b2d746563682673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="anirudhk-tech"/>
