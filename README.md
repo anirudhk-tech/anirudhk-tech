@@ -108,7 +108,7 @@
 <p align="right">
   <img 
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
     alt="anirudhk-tech"
   />
 </p>
