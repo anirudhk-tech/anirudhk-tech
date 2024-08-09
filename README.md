@@ -55,7 +55,12 @@
   alt="typescript" 
   width="40" 
   height="40"
-/>
+/>  <img 
+    align="left"
+    height=300
+    href="https://leetcode.com/u/Ani_Bytes/"
+    src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
+  />
 
 **LIBRARIES:**
   <img 
@@ -106,12 +111,6 @@
 />
 
 <p align="center">
-  <img 
-    align="center"
-    height=300
-    href="https://leetcode.com/u/Ani_Bytes/"
-    src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
-  />
   <img 
     align="center"
     height=300
