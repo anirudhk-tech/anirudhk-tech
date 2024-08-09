@@ -111,9 +111,9 @@
   height="50"
 />
 
-<p align="right">
+<p align="left">
   <img 
-      align="right"
+      align="left"
       height=300
       href="https://leetcode.com/u/Ani_Bytes/"
       src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
