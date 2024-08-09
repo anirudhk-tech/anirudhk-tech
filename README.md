@@ -58,28 +58,20 @@
 />
 
 **LIBRARIES:**
-<img 
-  src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" 
-  alt="reactnative" 
-  width="40" 
-  height="40"
-/><p align="right">
+<p>
   <img 
-    align="center"       src="https://camo.githubusercontent.com/cb1831bff0e6002e0eb90cc4b4865f0cddfd288b3e47752786c0d060ae986d00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e69727564686b2d746563682673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"           alt="anirudhk-tech"
-    />
-</p>
-<p align="right">
+    src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" 
+    alt="reactnative" 
+    width="40" 
+    height="40"
+  />
   <img 
-    align="center" 
-    src="https://leetcard.jacoblin.cool/Ani_Bytes"
+    src="./flutter_icon.png" 
+    alt="flutter" 
+    width="40" 
+    height="40"
   />
 </p>
-<img 
-  src="./flutter_icon.png" 
-  alt="flutter" 
-  width="40" 
-  height="40"
-/>
 
 **DATABASES:**
 <img 
