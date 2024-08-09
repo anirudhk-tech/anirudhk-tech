@@ -55,8 +55,8 @@
   alt="typescript" 
   width="40" 
   height="40"
-/>  <img 
-    align="left"
+/> <img 
+    align="right"
     height=300
     href="https://leetcode.com/u/Ani_Bytes/"
     src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
