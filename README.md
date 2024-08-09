@@ -105,16 +105,16 @@
   height="50"
 />
 
-<p gap=20>
+<p align="center">
 <img 
   align="center"
-  height=200
+  height=500
   href="https://leetcode.com/u/Ani_Bytes/"
   src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
 />
 <img 
   align="center"
-  height=200
+  height=500
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
   alt="anirudhk-tech"
 />
