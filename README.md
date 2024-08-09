@@ -58,7 +58,6 @@
 />
 
 **LIBRARIES:**
-<p>
   <img 
     src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" 
     alt="reactnative" 
@@ -71,7 +70,6 @@
     width="40" 
     height="40"
   />
-</p>
 
 **DATABASES:**
 <img 
