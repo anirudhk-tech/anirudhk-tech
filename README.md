@@ -114,6 +114,6 @@
   <img 
     align="center" 
     href="https://leetcode.com/u/Ani_Bytes/"
-    src="https://leetcard.jacoblin.cool/Ani_Bytes?theme=nord&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=nord&ext=heatmap"
   />
 </p>
