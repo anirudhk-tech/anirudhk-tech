@@ -89,12 +89,7 @@
   alt="supabase" 
   width="40" 
   height="40"
-/> <img 
-    align="right"
-    height=300
-    href="https://leetcode.com/u/Ani_Bytes/"
-    src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
-  />
+/> 
 
 **TOOLS:**
 <img 
@@ -114,7 +109,12 @@
   alt="getx" 
   width="70" 
   height="50"
-/>
+/> <img 
+      align="right"
+      height=300
+      href="https://leetcode.com/u/Ani_Bytes/"
+      src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
+  />
 
 <p align="center">
 </p>
