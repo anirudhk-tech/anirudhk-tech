@@ -57,7 +57,7 @@
   height="40"
 /> <img 
     align="right"
-    height=250
+    height=400
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
     alt="anirudhk-tech"
   /> 
