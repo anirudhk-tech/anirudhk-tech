@@ -105,7 +105,7 @@
   height="50"
 /> 
 
-<p align="right">
+<p align="right" position="relative">
   <img align="center" postion="relative" src="https://leetcard.jacoblin.cool/Ani_Bytes"/>
   <img 
     position="absulote"
