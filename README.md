@@ -58,9 +58,10 @@
 /> <img 
     align="right"
     height=300
-    href="https://leetcode.com/u/Ani_Bytes/"
-    src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
+    alt="anirudhk-tech"
+  /> 
+
 
 **LIBRARIES:**
   <img 
@@ -88,7 +89,12 @@
   alt="supabase" 
   width="40" 
   height="40"
-/>
+/> <img 
+    align="right"
+    height=300
+    href="https://leetcode.com/u/Ani_Bytes/"
+    src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
+  />
 
 **TOOLS:**
 <img 
@@ -111,10 +117,4 @@
 />
 
 <p align="center">
-  <img 
-    align="center"
-    height=300
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
-    alt="anirudhk-tech"
-  />
 </p>
