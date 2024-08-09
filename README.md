@@ -103,9 +103,7 @@
   alt="getx" 
   width="70" 
   height="50"
-/> 
-
-<p align="right">
+/> <p align="right">
   <img 
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
