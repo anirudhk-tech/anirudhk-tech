@@ -113,6 +113,7 @@
 <p align="right">
   <img 
     align="center" 
-    src="https://leetcard.jacoblin.cool/Ani_Bytes?ext=heatmap"
+    href="https://leetcode.com/u/Ani_Bytes/"
+    src="https://leetcard.jacoblin.cool/Ani_Bytes?theme=unicornext=heatmap"
   />
 </p>
