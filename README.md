@@ -108,13 +108,13 @@
 <p align-self="center">
 <img 
   align="center"
-  height=500
+  height=300
   href="https://leetcode.com/u/Ani_Bytes/"
   src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
 />
 <img 
   align="center"
-  height=500
+  height=300
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
   alt="anirudhk-tech"
 />
