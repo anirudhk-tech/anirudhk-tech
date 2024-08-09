@@ -108,7 +108,7 @@
 <p align="right">
   <img 
     align="center"
-    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"
+    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie)](https://github.com/anirudhk-tech/github-readme-stats)"
     alt="anirudhk-tech"
   />
 </p>
