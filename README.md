@@ -57,7 +57,7 @@
   height="40"
 /> <img 
     align="right"
-    height=300
+    height=250
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
     alt="anirudhk-tech"
   /> 
@@ -112,7 +112,7 @@
 />
 
 <p align="right">
-<img 
+  <img 
       align="right"
       height=300
       href="https://leetcode.com/u/Ani_Bytes/"
