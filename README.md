@@ -105,7 +105,7 @@
   height="50"
 />
 
-<p align-self="center">
+<p align="center">
 <img 
   align="center"
   height=300
