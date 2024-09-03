@@ -91,26 +91,6 @@
   height="40"
 /> 
 
-**TOOLS:**
-<img 
-  src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" 
-  alt="git" 
-  width="50" 
-  height="40"
-/> 
-<img 
-  src="./zustand_icon.png" 
-  alt="zustand" 
-  width="60" 
-  height="40"
-/>
-<img 
-  src="./getx_icon.png" 
-  alt="getx" 
-  width="70" 
-  height="50"
-/>
-
 <p align="left">
   <img 
       align="left"
