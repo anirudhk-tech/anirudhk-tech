@@ -10,7 +10,7 @@
 
 <h3 align="center">What I'm About</h3>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> I’m currently working on **ElectroBook** <img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="30" height="30" /> I’m currently working on **fullstack development** <img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Baby%20Medium-Dark%20Skin%20Tone.png" alt="Baby Medium-Dark Skin Tone" width="30" height="30" /> I’m currently learning **flutter and dart**
 
