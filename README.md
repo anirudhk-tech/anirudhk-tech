@@ -6,6 +6,7 @@
 
 <h3 align="center">What I know</h3>
 
+<p align="center">
 **LANGUAGES** 
 
 JavaScript; TypeScript; Python; SQL
@@ -21,6 +22,7 @@ GetX; Zustand; Expo; Git; MUI; VS Code; Play Console
 **DATABASE AND STORAGE**
 
 MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV
+</p>
 
 <h1></h1>
 
