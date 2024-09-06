@@ -5,13 +5,13 @@
 <h1></h1>
 
 <h3 align="center">What I know</h3>
-•	Languages: JavaScript; TypeScript; Python; SQL
+Languages: JavaScript; TypeScript; Python; SQL
 
-•	Libraries and Frameworks: React JS; React Native; Flutter; Express; Axios; NodeJS
+Libraries and Frameworks: React JS; React Native; Flutter; Express; Axios; NodeJS
 
-•	Developer Tools: GetX; Zustand; Expo; Git; MUI; VS Code; Play Console
+Developer Tools: GetX; Zustand; Expo; Git; MUI; VS Code; Play Console
 
-•	Databases and Storage: MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV
+Databases and Storage: MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV
 
 <h1></h1>
 
