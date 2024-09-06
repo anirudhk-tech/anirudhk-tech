@@ -93,7 +93,7 @@
 
 <p align="left">
   <img 
-      align="left"
+      align="right"
       height=300
       href="https://leetcode.com/u/Ani_Bytes/"
       src="https://leetcard.jacoblin.cool/Ani_Bytes?font=abel&theme=dark&ext=heatmap"
