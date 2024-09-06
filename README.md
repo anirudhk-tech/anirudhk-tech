@@ -6,19 +6,19 @@
 
 <h3 align="center">What I know</h3>
 
-**Languages:** 
+**LANGUAGES** 
 
 JavaScript; TypeScript; Python; SQL
 
-**Libraries and Frameworks:** 
+**LIBRARIES AND FRAMEWORKS** 
 
 React JS; React Native; Flutter; Express; Axios; NodeJS
 
-**Developer Tools:** 
+**DEVELOPER TOOLS** 
 
 GetX; Zustand; Expo; Git; MUI; VS Code; Play Console
 
-**Databases and Storage:**
+**DATABASE AND STORAGE**
 
 MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV
 
