@@ -6,7 +6,7 @@
 
 <h3 align="center">What I know</h3>
 
-<p align="center">
+<p align="center" width="100%">
   
 **LANGUAGES** 
 
