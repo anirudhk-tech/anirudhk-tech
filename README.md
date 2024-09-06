@@ -2,10 +2,6 @@
 
 <h3 align="center">A proactive oppurtunist attending college in Chicago, the Windy City</h3>
 
-<p align="center">
-<img align="center" src="header1IMAGE.gif" width=190 height=190/> <img align="center" src="./header2IMAGE.gif" width=190 height=190/> <img align="center" src="./header3IMAGE.gif" width=190 height=190/> <img align="center" src="./header5IMAGE.gif" width=200 height=200/> 
-</p>
-
 <h1></h1>
 
 <h3 align="center">What I know</h3>
