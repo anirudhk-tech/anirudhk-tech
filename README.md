@@ -7,6 +7,7 @@
 <h3 align="center">What I know</h3>
 
 <p align="center">
+  
 **LANGUAGES** 
 
 JavaScript; TypeScript; Python; SQL
