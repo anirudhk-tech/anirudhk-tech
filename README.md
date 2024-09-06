@@ -23,6 +23,7 @@ GetX; Zustand; Expo; Git; MUI; VS Code; Play Console
 **DATABASE AND STORAGE**
 
 MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV
+
 </p>
 
 <h1></h1>
