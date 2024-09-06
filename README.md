@@ -31,7 +31,13 @@
 
 <h1></h1> 
 
-<p align="left">
+<p align="center">
+  <img 
+    align="left"
+    height=570
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
+    alt="anirudhk-tech"
+  /> 
   <img 
       align="right"
       height=300
