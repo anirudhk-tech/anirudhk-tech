@@ -9,7 +9,7 @@
   
 **LANGUAGES** 
 
-JavaScript; TypeScript; Python; SQL
+JavaScript; TypeScript; Python; SQL <img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
 
 **LIBRARIES AND FRAMEWORKS** 
 
