@@ -1,6 +1,6 @@
 ![](./mainHeader.png)
 
-<h3 align="center">A proactive oppurtunist attending college in Chicago, the Windy City</h3>
+<h3 align="center">A proactive oppurtunist attending college in Chicago</h3>
 
 <h1></h1>
 
