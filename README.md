@@ -37,7 +37,7 @@ MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV
 
 <p align="center">
   <img 
-    align="left"
+    align="center"
     height=570
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhk-tech&layout=pie&theme=dark"
     alt="anirudhk-tech"
