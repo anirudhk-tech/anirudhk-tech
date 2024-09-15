@@ -16,6 +16,7 @@ JavaScript; TypeScript; Python; SQL <img src="./whataboutIMAGE.gif" align="right
 React JS; React Native; Flutter; Express; Axios; NodeJS;
 
 **Machine Learning**
+
 LangChain; FAISS;
 
 **DEVELOPER TOOLS** 
