@@ -17,7 +17,7 @@ React JS; React Native; Flutter; Express; Axios; NodeJS;
 
 **MACHINE LEARNING**
 
-LangChain; FAISS; HuggingFace
+LangChain; FAISS; HuggingFace;
 
 **DEVELOPER TOOLS** 
 
