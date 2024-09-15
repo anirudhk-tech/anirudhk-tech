@@ -13,15 +13,18 @@ JavaScript; TypeScript; Python; SQL <img src="./whataboutIMAGE.gif" align="right
 
 **LIBRARIES AND FRAMEWORKS** 
 
-React JS; React Native; Flutter; Express; Axios; NodeJS
+React JS; React Native; Flutter; Express; Axios; NodeJS;
+
+**Machine Learning**
+LangChain; FAISS;
 
 **DEVELOPER TOOLS** 
 
-GetX; Zustand; Expo; Git; MUI; VS Code; Play Console
+GetX; Zustand; Expo; Git; MUI; VS Code; Vercel; Render; Railway.app;
 
 **DATABASE AND STORAGE**
 
-MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV
+MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV;
 
 <h1></h1>
 
