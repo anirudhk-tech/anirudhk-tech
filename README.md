@@ -4,28 +4,9 @@
 
 <h1></h1>
 
-<h3 align="center">What I know</h3>
+<h3 align="center">Looking for something?</h3>
 
-  
-**LANGUAGES** 
-
-JavaScript; TypeScript; Python; SQL <img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
-
-**LIBRARIES AND FRAMEWORKS** 
-
-React JS; React Native; Flutter; Express; Axios; NodeJS;
-
-**MACHINE LEARNING**
-
-LangChain; FAISS; HuggingFace;
-
-**DEVELOPER TOOLS** 
-
-GetX; Zustand; Expo; Git; MUI; VS Code; Vercel; Render; Railway.app;
-
-**DATABASE AND STORAGE**
-
-MongoDB; Supabase; SQLite; FileSystem; Async Storage; MMKV;
+<img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
 
 <h1></h1>
 
