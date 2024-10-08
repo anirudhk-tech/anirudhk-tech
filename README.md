@@ -2,9 +2,7 @@
 
 <h3 align="center">A proactive oppurtunist attending college in Chicago</h3>
 
-<h1></h1>
-
-<h3 align="center">Looking for something?</h3>
+<h3 align="left">Looking for something?</h3>
 
 <img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
 
