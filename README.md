@@ -2,6 +2,8 @@
 
 <h3 align="left">Looking for something?</h3>
 
+www.linkedin.com/in/akuppili
+
 <img src="./whataboutIMAGE.gif" align="right" alt="Working" width="200" height="200" />
 
 <h1></h1>
